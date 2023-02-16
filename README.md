@@ -31,7 +31,8 @@ Run the provided code in Arduino IDE.
 <br />
 
 <h3 align="center">Arm robot and Instructions</h3>
-<img src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/arm%20display.png">
+  
+<img src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/arm%20instructions.png">
 
 <br />
 
