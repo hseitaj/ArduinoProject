@@ -25,15 +25,17 @@ Run the provided code in Arduino IDE.
 - [Project Report](https://github.com/hseitaj/ArduinoProject/blob/CMPSC/CMPSC%20442%20-%20Final%20Project%20Report.docx.pdf)
 <br />
 
+<div align="center"> 
 <h3 align="center">4WD robot</h3>
-<img align="center" src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/car%20display.png">
+<img src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/car%20display.png">
 <br />
 
 <h3 align="center">Arm robot and Instructions</h3>
-<img align="center" src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/arm%20display.png">
+<img src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/arm%20display.png">
 
 <br />
 
 <h3 align="center">Class Diagram</h3>
-<img align="center" src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/class%20diagram.png">
-  
+<img src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/class%20diagram.png">
+
+</div>
