@@ -22,19 +22,18 @@ Run the provided code in Arduino IDE.
 
 <h2>Program walk-through:</h2>
 
-- [Project Report]()
-- [Demo]()
+- [Project Report](https://github.com/hseitaj/ArduinoProject/blob/CMPSC/CMPSC%20442%20-%20Final%20Project%20Report.docx.pdf)
 <br />
 
 <h3 align="center">4WD robot</h3>
-<img align="center" src="">
+<img align="center" src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/car%20display.png">
 <br />
 
-<h3 align="center">Arm robot</h3>
-<img align="center" src="">
+<h3 align="center">Arm robot and Instructions</h3>
+<img align="center" src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/arm%20display.png">
 
 <br />
 
 <h3 align="center">Class Diagram</h3>
-<img align="center" src="">
+<img align="center" src="https://github.com/hseitaj/ArduinoProject/blob/CMPSC/class%20diagram.png">
   
